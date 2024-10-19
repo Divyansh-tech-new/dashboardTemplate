@@ -1,0 +1,1 @@
+email = request.args.get('email')
